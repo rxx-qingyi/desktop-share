@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(lsof:*)",
+      "Bash(npm install:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm cache clean:*)",
+      "Bash(go build:*)",
+      "Bash(kill:*)",
+      "Bash(go run:*)",
+      "Bash(find:*)",
+      "Bash(xargs kill:*)",
+      "Bash(curl:*)",
+      "Bash(open \"x-apple.systempreferences:com.apple.preference.security?Privacy_ScreenCapture\")"
+    ]
+  }
+}
