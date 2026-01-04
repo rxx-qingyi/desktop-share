@@ -43,3 +43,6 @@ Thumbs.db
 *.map
 claude_config
 
+# Claude Code
+.claude/settings.local.json
+
